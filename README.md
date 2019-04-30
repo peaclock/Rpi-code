@@ -12,3 +12,9 @@ Family member in another town and you just want to see what time it is there? Ea
 
 
 Recreate this clock by looking through our code and resources on this GitHub.
+
+saveDict.py : code to be run first, to store a dictionary on the Pi of all cities mapped to their timezones
+
+final_code_with_time_adjust.py : python code to be run continuously
+
+alexa.json : json file to be uploaded to the JSON tab on the Alexa developer console
