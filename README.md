@@ -1,10 +1,6 @@
 The 'Peaclock' is a Raspberry Pi powered smart wall clock that uses Amazon Alexa, but still has analog hands for the hour and minute.
 
-Team Members: 
-Sheetal Jena
-Carolyn Majane
-Cynthia Baseman
-Maya Padmalayam
+Team Members: Sheetal Jena, Carolyn Majane, Cynthia Baseman, Maya Padmalayam
 
 Daylight savings time? No problem. The software on the Raspberry Pi that powers the clock takes care of resetting the time.
 
